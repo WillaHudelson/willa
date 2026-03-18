@@ -1,0 +1,40 @@
+#Question 1: List 5 topics related to astronomy, physics, technology, science or math that sound interesting to you
+
+# 1. Black holes
+# 2. Dark matter
+# 3. Exoplanets
+# 4. Supernovae
+# 5. Pulsars
+
+#Question 2: For three of these topics, find a dataset, tool, news article, or paper online that relates to it. Summarize how each source relates to the topic 
+#in your own words
+
+#For black holes: 
+#There is an article posted by ScienceDaily that reported on an interesting stellar phenonemon. Back in 2023, a massive star went supernova, 
+#causing an extremely bright explosion that could be observed through powerful telescopes. Last year, the light from the explosion appeared again in the night sky,
+#along with the identification of a black hole. This reccurance was simulated by AI so astronomers may study them, and it was concluded that black holes have the 
+#ability to ignite stellar expolsions. This article shows how AI can be used to expand our knowledge on these mysterious bodies. 
+
+#For dark matter: 
+#Physicists have unveiled a coding project they have been working on, allowing them to simulate the interactions on a mysterious form of dark matter that can only 
+#collide with itself but not normal matter. In simulating this, they were able to observe these interactions and theroized that this type of dark matter may trigger
+#a dramatic collapse inside dark matter halos, heating and desifying their cores in mysterious ways. Up until the development of this model, it was thought to be 
+#impossible to recreate this phenomenon accurately, however now they may simulate dark matter faster and more accurately.
+
+#For pulsars: 
+#Using code based in Einstein's classical equations, Scientists found abnormal data stemming from the heart of the Milky Way. They found a tantalizing singal that 
+#suggested the potential existence of an ulta-fast pulsar spinning every 8.19 miliseconds in close proximity to Sagittarius A. This new finding opens the window for 
+#astrophysicists to observe how space-time behaves under such intense gravity. 
+
+#Question 3: Choose one topic and brainstorm how you could Python skills (loops, conditionals, functions,lists/dictionaries, github, version control) to explore, 
+#analyze or create something with it.
+
+#In regards to black holes, I could used python and python packages to make an amateur simulation of these findings, or do something similar in which I take 
+#seperate data sets and try to recreation this project. 
+
+#Question 4: Write down at least two possible project ideas connected to your topic. One should be ambitious (a “dream” version) and the other should be smaller, 
+simpler version that you could realistically finish in a few weeks
+
+#I have actually been toying around with an idea since this project was very briefly introduced at the beginning of this semester. I have been wanting to use data
+#collected on a specific black hole (right now I am looking at Sagittarius A) and simulating its accretion disk. I'm not entirely sure I'll be able to execute this,
+#however, so my other idea is to plot the gravitational lensing of Sagittarius A. 
